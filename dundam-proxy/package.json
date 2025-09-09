@@ -1,9 +1,0 @@
-{
-  "name": "dundam-proxy",
-  "private": true,
-  "type": "commonjs",
-  "dependencies": {
-    "@sparticuz/chromium": "^125.0.0",
-    "puppeteer-core": "^22.15.0"
-  }
-}
