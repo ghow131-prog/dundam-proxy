@@ -3,7 +3,7 @@
   "private": true,
   "type": "commonjs",
   "dependencies": {
-    "@sparticuz/chromium": "^125.0.0",
-    "puppeteer-core": "^22.15.0"
+    "@sparticuz/chromium": "123.0.1",
+    "puppeteer-core": "22.7.1"
   }
 }
